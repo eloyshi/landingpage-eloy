@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/landingpage-eloy/static/css/main.3e2e60bd.css",
+    "main.js": "/landingpage-eloy/static/js/main.518f6070.js",
+    "static/js/787.64117c96.chunk.js": "/landingpage-eloy/static/js/787.64117c96.chunk.js",
+    "index.html": "/landingpage-eloy/index.html",
+    "main.3e2e60bd.css.map": "/landingpage-eloy/static/css/main.3e2e60bd.css.map",
+    "main.518f6070.js.map": "/landingpage-eloy/static/js/main.518f6070.js.map",
+    "787.64117c96.chunk.js.map": "/landingpage-eloy/static/js/787.64117c96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2e60bd.css",
+    "static/js/main.518f6070.js"
+  ]
+}
